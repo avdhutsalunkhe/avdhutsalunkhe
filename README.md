@@ -47,6 +47,57 @@
 ---
 
 ## 🧰 Tech Stack
+## 🧰 Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- MERN Stack -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Backend & Databases -->
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" title="NeonDB" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" title="AWS" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- AI / ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Auth / Tools -->
+  <img src="https://avatars.githubusercontent.com/u/65103861?s=280&v=4" title="Clerk" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="45" height="45" />
+</p>
+
+<p align="center">
+  <!-- Special Skills -->
+  <img src="https://img.icons8.com/?size=512&id=11554&format=png" title="IoT" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=512&id=63204&format=png" title="Chatbot Development" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=512&id=13264&format=png" title="RXLogic100" width="45" height="45" />
+</p>
 
 <p align="center">
   <!-- Languages -->
