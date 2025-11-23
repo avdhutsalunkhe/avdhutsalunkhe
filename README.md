@@ -33,20 +33,37 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE student from **Sangli, India**
-- 🤖 Exploring **Generative AI, LLMs, Transformers & Agentic AI**
-- 🧠 Building **local LLM & AI systems** (no external APIs)
-- 💻 Skilled in **Python, React, Django, FastAPI, ML/NLP**
-- 📚 Currently working on:
-  - **AI Multi-Agent Study/Coding Assistant**
-  - **Pariksha – OCR + NLP Answer Evaluator**
-- 🌱 Learning:
-  - RAG systems
-  - Prompt engineering
-  - Scalable backend architecture
+- 🤖 Passionate about **Generative AI, LLMs, Transformers & Agentic AI**
+- 🧠 Building **local LLM-powered systems** without external APIs
+- 💻 Skilled in **Python, React, Django, FastAPI, ML/NLP, MERN Stack**
+- 📡 Interested in **Cloud, IoT, and ML-based automation**
+- 🎯 Strong focus on **AI-driven productivity tools** and **smart assistants**
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Currently Working On
+
+- 🧠 **Multi-Agent AI Systems**  
+- 🤖 **Large Language Models (LLMs)**  
+- 🔄 **Transformer Architectures**  
+- 🕹️ **Agentic AI (Autonomous, Tool-Using Agents)**  
+- ⚙️ **Advanced RAG & Context-Oriented AI Systems**  
+
+---
+
+## 🚀 Featured Projects (Short)
+
+- 🧠 **AI Multi-Agent Study & Coding Assistant**  
+  Personal multi-agent LLM with Planner, Coding, Notes, and Teacher agents.
+
+- 📝 **Pariksha – OCR + NLP Answer Evaluator**  
+  Evaluates handwritten/typed long answers using OCR + ML/NLP.
+
+- ⚡ **Local LLM Workspace**  
+  Experiments with transformers, quantized models, embeddings, retrieval, etc.
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -70,7 +87,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />
 
   <!-- Cloud -->
- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
 
@@ -91,6 +107,7 @@
 
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
