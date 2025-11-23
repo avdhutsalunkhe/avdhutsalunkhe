@@ -1,105 +1,44 @@
-<h1 align="center">AI & Full-Stack Enthusiast</h1>
+# 👋 Hey, I'm Avdhut
 
-<p align="center">
-  <b>Avdhut Salunkhe</b> • B.Tech CSE • Building Agentic AI & Local LLM Apps
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/avdhutsalunkhe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/avdhuts03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/Public_Willow384/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <a href="https://github.com/avdhutsalunkhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🎓 B.Tech CSE student from Sangli  
+🧠 Interested in: Generative AI, LLMs, agentic AI, and full-stack web dev  
+💻 Stack: Python • JavaScript • React • Django/FastAPI • Transformers • OpenCV/OCR
 
 ---
 
-## 🧠 AI / ML / NLP
+### 🚀 What I'm working on
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
-</p>
+- 🧑‍🏫 **AI Study & Coding Assistant** – local LLM + multi-agent system for explaining concepts and code
+- 📄 **Answer Sheet Evaluator (Pariksha)** – OCR + NLP to auto-evaluate descriptive exam answers
+- 📱 **Front-end clones & SaaS UI** – practicing modern React + Tailwind components
 
 ---
 
-## 💻 Programming Languages
+### 🧰 Tech & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
-</p>
+- **Languages:** Python, JavaScript, C/C++
+- **Web:** React, Django / FastAPI, HTML, CSS
+- **AI / ML:** PyTorch / TensorFlow basics, HuggingFace Transformers, scikit-learn
+- **Data:** NumPy, Pandas
+- **DevOps & Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
-## 🔧 Backend Development
+### 📌 Featured Projects
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" />
-</p>
+- 🔹 [AI-Nexus](#) – AI utilities playground (LLMs, prompts, experiments)
+- 🔹 [pythonProject](#) – Python utilities + mini scripts
+- 🔹 [saas](#) – SaaS style landing page in JavaScript
+- 🔹 [i_phoneclone](#) – Front-end clone project
+- 🔹 [sanskrit-encoder](#) – Text processing experiment
 
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-</p>
+> I’m currently building **local LLM + agentic AI projects** without external APIs.
 
 ---
 
-## 🧰 Tools
+### 📫 Reach me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-</p>
+- ✉️ Email: _your-email-here_
+- 💼 LinkedIn: _your-linkedin-url-here_
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=avdhutsalunkhe&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhutsalunkhe&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 🟦 LinkedIn: **https://www.linkedin.com/in/avdhutsalunkhe**  
-- 🐦 Twitter/X: **https://x.com/avdhuts03**  
-- 👾 Reddit: **https://www.reddit.com/user/Public_Willow384/**  
-- 🐙 GitHub: **https://github.com/avdhutsalunkhe**
-
----
-
+Feel free to open an issue or discussion on any repo – I love feedback and collaboration!
