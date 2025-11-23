@@ -21,70 +21,69 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 AI / ML / NLP
 
-- 🎓 B.Tech CSE student from **Sangli, India**
-- 🤖 Interested in **Generative AI, LLMs, Agentic AI, and Transformer-based apps**
-- 🧠 Focused on building **local LLM systems without external APIs**
-- 💻 Skilled in **Python, React, FastAPI, NLP, and OCR**
-- 🧩 Currently working on:
-  - AI Multi-Agent Study Assistant  
-  - Pariksha – Answer Evaluation AI
-
----
-
-## 🧠 AI / ML / NLP Skills
-
-- **LLMs (Local & Open-Source)** — LLaMA, Mistral, Phi-2  
-- **Transformers (HuggingFace)**
-- **Agentic AI Concepts**
-- **Prompt Engineering**
-- **OCR:** Tesseract, EasyOCR  
-- **NLP:** TF-IDF, Word2Vec, WMD, Cosine Similarity  
-- **ML Libraries:** scikit-learn, NumPy, Pandas  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
+</p>
 
 ---
 
-## 💻 Languages
+## 💻 Programming Languages
 
-- **Python**  
-- **JavaScript**
-
----
-
-## 🌐 Frontend
-
-- **React**  
-- **HTML**  
-- **CSS**  
-- **Tailwind CSS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+</p>
 
 ---
 
-## 🔧 Backend
+## 🌐 Frontend Development
 
-- **Django**  
-- **FastAPI**  
-- **REST API Development**  
-- **JWT Authentication**  
-- **Postman**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+</p>
+
+---
+
+## 🔧 Backend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" />
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-- **SQLite**  
-- **MongoDB** *(optional)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+</p>
 
 ---
 
 ## 🧰 Tools
 
-- **Git & GitHub**  
-- **VS Code**  
-- **Docker** *(optional)*  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+</p>
 
----
 
 ## 📊 GitHub Stats
 
